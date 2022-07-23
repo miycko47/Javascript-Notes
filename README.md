@@ -1,7 +1,7 @@
 # Javascript-Notes
 Introduction on JavaScript ACT-Students #Web_Technologies_course
 
-Hello Devs,so what is javaScript ?
+what is javaScript ?
 
 The most popular and extensively used client-side scripting language. Scripts that operate within your web browser are known as client-side scripting. JavaScript is a scripting language that manipulates the content returned from a web server to add interactivity and dynamic effects to online pages.
 
